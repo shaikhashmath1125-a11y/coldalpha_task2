@@ -1,0 +1,136 @@
+========================================
+        HOTEL RESERVATION SYSTEM
+========================================
+
+----------------------------------------
+1. View Available Rooms
+2. Make Reservation
+3. View All Reservations
+4. Cancel Reservation
+5. Search Reservation
+6. Hotel Statistics
+7. Exit
+----------------------------------------
+Enter your choice: 
+========== AVAILABLE ROOMS ==========
+Room 101 | Single  | Rs. 1500.00/night
+Room 102 | Single  | Rs. 1500.00/night
+Room 201 | Double  | Rs. 2500.00/night
+Room 202 | Double  | Rs. 2500.00/night
+Room 301 | Deluxe  | Rs. 4000.00/night
+Room 302 | Deluxe  | Rs. 4000.00/night
+Room 401 | Suite   | Rs. 6000.00/night
+Room 402 | Suite   | Rs. 6000.00/night
+
+----------------------------------------
+1. View Available Rooms
+2. Make Reservation
+3. View All Reservations
+4. Cancel Reservation
+5. Search Reservation
+6. Hotel Statistics
+7. Exit
+----------------------------------------
+Enter your choice: 
+========== MAKE RESERVATION ==========
+
+========== AVAILABLE ROOMS ==========
+Room 101 | Single  | Rs. 1500.00/night
+Room 102 | Single  | Rs. 1500.00/night
+Room 201 | Double  | Rs. 2500.00/night
+Room 202 | Double  | Rs. 2500.00/night
+Room 301 | Deluxe  | Rs. 4000.00/night
+Room 302 | Deluxe  | Rs. 4000.00/night
+Room 401 | Suite   | Rs. 6000.00/night
+Room 402 | Suite   | Rs. 6000.00/night
+Enter room number: Please enter a number between 1 and 9999.
+Enter room number: Please enter a number between 1 and 9999.
+Enter room number: Invalid room number.
+
+----------------------------------------
+1. View Available Rooms
+2. Make Reservation
+3. View All Reservations
+4. Cancel Reservation
+5. Search Reservation
+6. Hotel Statistics
+7. Exit
+----------------------------------------
+Enter your choice: 
+========== ALL RESERVATIONS ==========
+No reservations found.
+
+----------------------------------------
+1. View Available Rooms
+2. Make Reservation
+3. View All Reservations
+4. Cancel Reservation
+5. Search Reservation
+6. Hotel Statistics
+7. Exit
+----------------------------------------
+Enter your choice: 
+========== SEARCH RESERVATION ==========
+Enter reservation ID: Reservation not found.
+
+----------------------------------------
+1. View Available Rooms
+2. Make Reservation
+3. View All Reservations
+4. Cancel Reservation
+5. Search Reservation
+6. Hotel Statistics
+7. Exit
+----------------------------------------
+Enter your choice: 
+========== HOTEL STATISTICS ==========
+Total Rooms       : 8
+Booked Rooms      : 0
+Available Rooms   : 8
+Current Revenue    : Rs. 0.00
+
+----------------------------------------
+1. View Available Rooms
+2. Make Reservation
+3. View All Reservations
+4. Cancel Reservation
+5. Search Reservation
+6. Hotel Statistics
+7. Exit
+----------------------------------------
+Enter your choice: 
+========== CANCEL RESERVATION ==========
+No reservations available to cancel.
+
+----------------------------------------
+1. View Available Rooms
+2. Make Reservation
+3. View All Reservations
+4. Cancel Reservation
+5. Search Reservation
+6. Hotel Statistics
+7. Exit
+----------------------------------------
+Enter your choice: Please enter a number between 1 and 7.
+Enter your choice: 
+========== AVAILABLE ROOMS ==========
+Room 101 | Single  | Rs. 1500.00/night
+Room 102 | Single  | Rs. 1500.00/night
+Room 201 | Double  | Rs. 2500.00/night
+Room 202 | Double  | Rs. 2500.00/night
+Room 301 | Deluxe  | Rs. 4000.00/night
+Room 302 | Deluxe  | Rs. 4000.00/night
+Room 401 | Suite   | Rs. 6000.00/night
+Room 402 | Suite   | Rs. 6000.00/night
+
+----------------------------------------
+1. View Available Rooms
+2. Make Reservation
+3. View All Reservations
+4. Cancel Reservation
+5. Search Reservation
+6. Hotel Statistics
+7. Exit
+----------------------------------------
+Enter your choice: 
+Thank you for using the Hotel Reservation System!

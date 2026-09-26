@@ -1,0 +1,22 @@
+SAMPLE OUTPUT
+
+========================================
+        HOTEL RESERVATION SYSTEM
+========================================
+
+========== AVAILABLE ROOMS ==========
+Room 101 | Single  | Rs. 1500.00/night
+Room 201 | Double  | Rs. 2500.00/night
+Room 301 | Deluxe  | Rs. 4000.00/night
+Room 401 | Suite   | Rs. 6000.00/night
+
+Reservation confirmed!
+----------------------------------------
+Reservation ID : RES1001
+Customer       : Ayesha
+Phone          : 9876543210
+Room           : 301
+Room Type      : Deluxe
+Nights         : 2
+Total Amount   : Rs. 8000.00
+----------------------------------------
